@@ -73,5 +73,4 @@ An **interactive Excel Dashboard** was created to combine KPIs, Pivot Tables, an
 
 ---
 
-## 📂 Project Structure
 
